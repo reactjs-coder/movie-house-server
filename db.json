@@ -1,0 +1,71 @@
+{
+  "movie-details": [
+    {
+      "movieId": 1,
+      "movieName": "Avengers",
+      "movieLang": "English",
+      "movieImage": "https://www.joblo.com/assets/images/joblo/posters/2019/04/avengers_endgame_ver44_xlg.jpg",
+      "movieAltName": "Avengers Infinity War",
+      "movieHeight": 280
+    },
+    {
+      "movieId": 2,
+      "movieName": "Extraction",
+      "movieLang": "English",
+      "movieImage": "https://www.joblo.com/assets/images/joblo/posters/2020/03/extraction_netflix_xlg.jpg",
+      "movieAltName": "Extraction",
+      "movieHeight": 280
+    },
+    {
+      "movieId": 3,
+      "movieName": "Sea Fever",
+      "movieLang": "English",
+      "movieImage": "https://www.joblo.com/assets/images/joblo/posters/2020/04/sea-fever-poster_thumb.jpg",
+      "movieAltName": "Sea Fever",
+      "movieHeight": 280
+    },
+    {
+      "movieId": 4,
+      "movieName": "The Secret",
+      "movieLang": "English",
+      "movieImage": "https://www.joblo.com/assets/images/joblo/posters/2020/04/secret-dare-poster_thumb.jpg",
+      "movieAltName": "The Secret",
+      "movieHeight": 280
+    },
+    {
+      "movieId": 5,
+      "movieName": "Scoob",
+      "movieLang": "English",
+      "movieImage": "https://www.joblo.com/assets/images/joblo/posters/2020/03/1_thumb.jpg",
+      "movieAltName": "Scoob",
+      "movieHeight": 280
+    }
+    
+  ],
+  "upcoming-shows":[
+    {
+        "movieId": 1,
+        "movieName": "No Time No Die",
+        "movieLang": "English",
+        "movieImage": " https://www.joblo.com/assets/images/joblo/posters/2020/02/notimetodieimaxposter1_thumb.jpg",
+        "movieAltName": "No Time No Die",
+        "movieHeight": 280
+      },
+      {
+        "movieId": 2,
+        "movieName": "Black Widow",
+        "movieLang": "English",
+        "movieImage": " https://www.joblo.com/assets/images/joblo/posters/2020/02/black_widow_ver5_xlg_thumb.jpg",
+        "movieAltName": "Black Widow",
+        "movieHeight": 280
+      },
+      {
+        "movieId": 3,
+        "movieName": "Sonica",
+        "movieLang": "English",
+        "movieImage": " https://www.joblo.com/assets/images/joblo/posters/2020/01/sonic_the_hedgehog_poster3_thumb.jpg",
+        "movieAltName": "Sonica",
+        "movieHeight": 280
+      }
+  ]
+}
